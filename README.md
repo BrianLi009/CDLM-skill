@@ -1,6 +1,6 @@
 # CDLM Skill
 
-**Conflict-Driven Learning Method** — a framework-agnostic agent skill for
+**Certificate Driven Language Model** — a framework-agnostic agent skill for
 long-horizon reasoning. Inspired by CDCL (Conflict-Driven Clause Learning)
 SAT solvers, but general enough for any problem that needs systematic
 exploration with the ability to revise assumptions: combinatorial puzzles,

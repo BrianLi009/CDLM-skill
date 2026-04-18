@@ -23,7 +23,7 @@ Usage example (Anthropic Claude API)::
 CDLM_INIT_SCHEMA = {
     "name": "cdlm_init",
     "description": (
-        "Initialize a CDLM (Conflict-Driven Learning) session for a reasoning "
+        "Initialize a CDLM (Certificate Driven Language Model) session for a reasoning "
         "problem. Provide the problem statement as text. The reasoning tree "
         "starts empty; you drive each phase by calling cdlm_propagate / "
         "cdlm_conflict_check / cdlm_decide / cdlm_solution_check / "

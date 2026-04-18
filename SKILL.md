@@ -13,7 +13,7 @@ author: Brian Li
 tags: [reasoning, long-horizon, conflict-driven, cdcl, search, planning]
 ---
 
-# CDLM — Conflict-Driven Learning Method
+# CDLM — Certificate Driven Language Model
 
 A general-purpose reasoning strategy inspired by CDCL (Conflict-Driven Clause
 Learning) SAT solvers. Instead of reasoning in one shot, you maintain an

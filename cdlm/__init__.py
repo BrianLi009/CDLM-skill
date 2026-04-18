@@ -1,4 +1,4 @@
-"""CDLM — Conflict-Driven Learning Method.
+"""CDLM — Certificate Driven Language Model.
 
 Framework-agnostic implementation of a CDCL-style reasoning engine. The host
 agent is the reasoning engine; this package provides the state-machine

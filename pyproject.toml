@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "cdlm-skill"
 version = "0.2.0"
-description = "Conflict-Driven Learning Method — a framework-agnostic agent skill for long-horizon reasoning"
+description = "Certificate Driven Language Model — a framework-agnostic agent skill for long-horizon reasoning"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
